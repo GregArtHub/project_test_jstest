@@ -108,7 +108,3 @@
 
 ## Результаты НАШИХ тестов
 
-![Картинка№1](./results_tests/1.png)
-![Картинка№2](./results_tests/2.png)
-![Картинка№3](./results_tests/3.png)
-![Картинка№4](./results_tests/4.png)

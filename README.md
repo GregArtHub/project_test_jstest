@@ -108,3 +108,10 @@
 
 ## Результаты НАШИХ тестов
 
+![photo_5260347434884336757_y](https://github.com/user-attachments/assets/5e36b5cb-b7ad-4f19-8d16-b5ec87929aee)
+![photo_5260347434884336758_y](https://github.com/user-attachments/assets/54e69a18-66eb-4bb8-a05b-7d2ba242680f)
+![photo_5260347434884336759_y](https://github.com/user-attachments/assets/4beb2c26-c7ec-4a06-80d7-3b49e0b99a94)
+![photo_5260347434884336760_y](https://github.com/user-attachments/assets/0580f8c3-20da-4f7e-9c79-3f899a4573e2)
+
+
+
